@@ -1,9 +1,9 @@
 0271 (3.5.5 unlikely)
-_ get the jre download to work by using a local copy
+X get the jre download to work by using a cached copy
 X   https://github.com/processing/processing/issues/5827
 X   https://github.com/processing/processing/issues/5860
-_   https://github.com/processing/processing/issues/5942
-_   https://github.com/processing/processing/issues/6089
+X   https://github.com/processing/processing/issues/5942
+X   https://github.com/processing/processing/issues/6089
 
 contribs
 X rename-variable menu allows Java identifiers
@@ -11,6 +11,9 @@ X   https://github.com/processing/processing/issues/5828
 X   https://github.com/processing/processing/pull/5906
 X Replace C/C++ style array declarations with Java style array declarations
 X   https://github.com/processing/processing/pull/5981
+X Updates and fixes for PDE_pt.properties (Portugese translation)
+X   https://github.com/processing/processing/pull/6097
+X   https://github.com/processing/processing/pull/6098
 
 
 from Casey
